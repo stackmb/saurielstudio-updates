@@ -1,9 +1,9 @@
 {
   "status": "success",
-  "latestVersion": "8.90.0",
-  "releaseDate": "1405/06/20",
-  "releaseNotes": "تست بوووووود عجبه نکن",
+  "latestVersion": "8.0.0",
+  "releaseDate": "",
+  "releaseNotes": "",
   "isMandatory": false,
   "minSupportedVersion": "8.0.0",
-  "downloadUrl": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID"
+  "downloadUrl": ""
 }
