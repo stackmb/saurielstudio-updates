@@ -1,9 +1,9 @@
 {
   "status": "success",
-  "latestVersion": "8.0.0",
-  "releaseDate": "",
-  "releaseNotes": "",
+  "latestVersion": "8.20.0",
+  "releaseDate": "20/05/1405",
+  "releaseNotes": "بدو بیا نسخه جدید",
   "isMandatory": false,
   "minSupportedVersion": "8.0.0",
-  "downloadUrl": ""
+  "downloadUrl": "https://drive.google.com/uc?export=download&id=1DWKWFcKk4NdurIVqEn3LUe1sA2J6wqdr"
 }
